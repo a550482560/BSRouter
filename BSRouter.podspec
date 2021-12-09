@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BSRouter'
-  s.version          = '1.1.1'
+  s.version          = '4.0.0'
   s.summary          = 'A short description of BSRouter.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/550482560@qq.com/BSRouter'
+  s.homepage         = 'https://github.com/a550482560/BSRouter'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '550482560@qq.com' => 'yuanyuan53@leju.com' }
-  s.source           = { :git => 'https://github.com/550482560@qq.com/BSRouter.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/a550482560/BSRouter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
