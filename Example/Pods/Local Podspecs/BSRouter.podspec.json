@@ -1,9 +1,9 @@
 {
   "name": "BSRouter",
-  "version": "0.1.0",
+  "version": "4.0.0",
   "summary": "A short description of BSRouter.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/550482560@qq.com/BSRouter",
+  "homepage": "https://github.com/a550482560/BSRouter",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "550482560@qq.com": "yuanyuan53@leju.com"
   },
   "source": {
-    "git": "https://github.com/550482560@qq.com/BSRouter.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/a550482560/BSRouter.git",
+    "tag": "4.0.0"
   },
   "platforms": {
     "ios": "9.0"

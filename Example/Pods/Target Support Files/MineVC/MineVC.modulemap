@@ -1,0 +1,6 @@
+framework module MineVC {
+  umbrella header "MineVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

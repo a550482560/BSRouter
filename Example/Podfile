@@ -1,7 +1,11 @@
 use_frameworks!
+source 'https://github.com/a550482560/BSCMSpec.git'
 
 platform :ios, '9.0'
 
 target 'BSRouter_Example' do
   pod 'BSRouter', :path => '../'
+  pod 'HomePage'
+  pod 'MineVC'
+  pod 'HomePage'
 end

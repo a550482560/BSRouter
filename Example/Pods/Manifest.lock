@@ -1,16 +1,27 @@
 PODS:
-  - BSRouter (0.1.0)
+  - BSRouter (4.0.0)
+  - HomePage (4.0.0)
+  - MineVC (1.2.2)
 
 DEPENDENCIES:
   - BSRouter (from `../`)
+  - HomePage
+  - MineVC
+
+SPEC REPOS:
+  https://github.com/a550482560/BSCMSpec.git:
+    - HomePage
+    - MineVC
 
 EXTERNAL SOURCES:
   BSRouter:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BSRouter: e0c4f881a3c03ee56c8c07cd8534f2b3453157fe
+  BSRouter: 31e40cb0899e54cf0710e9f1966f787f491cb952
+  HomePage: 8a713e8ec648971b798cb425e6ff24ef8ca28f2c
+  MineVC: 237963a601451086e4c0419b1b5eebdb58241e1e
 
-PODFILE CHECKSUM: e2cd0a5d69c1a32695009a25e6032dba3b95e5f3
+PODFILE CHECKSUM: 64d562ffd82063bbdaa4d379ef049ce26170ed1a
 
 COCOAPODS: 1.11.2
