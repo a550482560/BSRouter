@@ -1,6 +1,6 @@
 {
   "name": "BSRouter",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "summary": "A short description of BSRouter.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/a550482560/BSRouter",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/a550482560/BSRouter.git",
-    "tag": "4.0.0"
+    "tag": "5.0.0"
   },
   "platforms": {
     "ios": "9.0"

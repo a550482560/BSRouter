@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "BSRouter.h"
 
 FOUNDATION_EXPORT double BSRouterVersionNumber;
 FOUNDATION_EXPORT const unsigned char BSRouterVersionString[];
