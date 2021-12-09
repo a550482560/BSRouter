@@ -1,0 +1,16 @@
+PODS:
+  - BSRouter (0.1.0)
+
+DEPENDENCIES:
+  - BSRouter (from `../`)
+
+EXTERNAL SOURCES:
+  BSRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BSRouter: e0c4f881a3c03ee56c8c07cd8534f2b3453157fe
+
+PODFILE CHECKSUM: e2cd0a5d69c1a32695009a25e6032dba3b95e5f3
+
+COCOAPODS: 1.11.2
