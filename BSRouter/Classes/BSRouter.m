@@ -9,7 +9,6 @@
 
 #import <objc/runtime.h>
 #import <CoreGraphics/CoreGraphics.h>
-
 NSString * const kSwiftTargetModuleName = @"kCTMediatorParamsKeySwiftTargetModuleName";
 
 #define BSRouterLog(format, ...) NSLog((@"BSRouter >>> " format), ##__VA_ARGS__)

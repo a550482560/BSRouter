@@ -5,7 +5,6 @@ platform :ios, '9.0'
 
 target 'BSRouter_Example' do
   pod 'BSRouter', :path => '../'
-  pod 'HomePage'
-  pod 'MineVC'
-  pod 'HomePage'
+  pod 'HomePage','~> 6.6.8'
+  pod 'MineVC','~> 6.6.8'
 end

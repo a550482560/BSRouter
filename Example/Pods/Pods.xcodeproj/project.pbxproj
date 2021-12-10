@@ -7,31 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		03875B2A0A154BCF5ADB5C0E8D397B7C /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = BAD939D2572D891A2E9425E0C544C06E /* ReplaceMe.m */; };
+		0AC6D75D209F4697F3BE3D9BB330DE8C /* MineVC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EAAB4F0F2385E971C7DA805B28277D /* MineVC-dummy.m */; };
+		24CD0B4FAAFE992CC2DC1845D2547C30 /* Target_Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 1585D974A61031B63F624320537EEF6F /* Target_Home.m */; };
+		2656AC96482B859874C90358DC6E8058 /* MineViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = DAAC15276C0DC5A6F910AD4F71398AD1 /* MineViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		28A8806BF49DDD3C1369D51B0C5BD6E8 /* Target_Home.h in Headers */ = {isa = PBXBuildFile; fileRef = E952EB64C2C4D26C39E84BD8EC806E74 /* Target_Home.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2CE97A826AC51FB4F08182A17DBE8C1A /* HomePage-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C06E93F0B15DEA22A959D31B58E2FFAD /* HomePage-dummy.m */; };
+		38001A2B9F94E1331683BBF4E36318C3 /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF75AB04B5FE539F89AF503A56CC30DC /* MineViewController.m */; };
 		3B082793DE12F4F3A8F8838ECE4DD381 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		478255264B28886A86E24C6DE7DB1B98 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = BCE3CAF23398D8C885096CB5C9415324 /* ReplaceMe.m */; };
-		5A450165E4CFDCDEA1F3870F18BC9316 /* Target_Mine.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DA1F9C6F6948340732D57F85BC67F48 /* Target_Mine.m */; };
-		5DC62BA69244E98857BC34D6F47E3A5B /* HomePageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 84E8A3C16C742AFB82218AFAD678D432 /* HomePageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6094D05961F13A16FC29D741BC08A0C7 /* BSRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = 942C16E1623FCC866F9ED7266C2E1B4F /* BSRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		687EF6FF77E600F93CDEE41BD13C03AC /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF75AB04B5FE539F89AF503A56CC30DC /* MineViewController.m */; };
-		754291C2ED2206F9C932E21286534BB1 /* Target_Home.h in Headers */ = {isa = PBXBuildFile; fileRef = E952EB64C2C4D26C39E84BD8EC806E74 /* Target_Home.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		754D550EE6AAEE73B8021F6E9213987A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		6660DD4873F3ACAE938ED5B25DFC3428 /* HomePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1396A99515D77E2A58C90FD142542C2D /* HomePageViewController.m */; };
 		7F7478FF6A06552BF871525596CA414C /* BSRouter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 608E3C74DE2C7BDD5570716B75EA169F /* BSRouter-dummy.m */; };
 		869CF4EFB78BEA6F8BFCE9A20DBC52DE /* BSRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = ED502ACD451C5E775EF5CC7B268B6666 /* BSRouter.m */; };
 		893DD111A3D35BD47A815AFA8263558C /* Pods-BSRouter_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2BD3D6895B411977BC1AB8AE3766969C /* Pods-BSRouter_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D01A79050C80326FA20C68044AE3354 /* HomePage-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F909EC7BE951009D07EC2B65B053EF42 /* HomePage-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8E02B8BA745938B6300450D9C03B8C9C /* BSRouter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EF8A32EDB6229879E422C6208A0A0135 /* BSRouter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A4AB8B40AD77DAD756073BCF728FF48B /* MineVC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EAAB4F0F2385E971C7DA805B28277D /* MineVC-dummy.m */; };
-		A94FBD962FCD3597068D2485218C5D56 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = CDABA1F0C358D500A1FA2EA3CE14AE8B /* ReplaceMe.m */; };
+		9AEF68936BEE8124BE906BFD4C777F38 /* Target_Mine.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DA1F9C6F6948340732D57F85BC67F48 /* Target_Mine.m */; };
+		AC109CFABF61F79EF2378A2D54A3BCB0 /* HomePageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 84E8A3C16C742AFB82218AFAD678D432 /* HomePageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		ADE2DF1A3ED4C6A42B68ACE48F0D78DF /* MineVC-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CE4C0A7573FC861251B3ABF2BAD3DF92 /* MineVC-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B2DB4963A4E1CC21BA5533BC873AFF8A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		B8528E2074D2A3B4744C5597F26875AE /* Target_Mine.h in Headers */ = {isa = PBXBuildFile; fileRef = A65B39F5F31B27B32F04575C825CE2AE /* Target_Mine.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C7A6B9DC3079309543D9275B0A53DAE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		C9113BD1F6CB1AE8E0931B0AA03BAC1D /* HomePage-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C06E93F0B15DEA22A959D31B58E2FFAD /* HomePage-dummy.m */; };
-		CFFC4FD36D9B4600DA5B2BFD67490611 /* MineVC-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CE4C0A7573FC861251B3ABF2BAD3DF92 /* MineVC-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D49B14A2BDD04E88731670234A7AC9F8 /* HomePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1396A99515D77E2A58C90FD142542C2D /* HomePageViewController.m */; };
-		D5CAFA24A56AE0FAAC230BC85F898B42 /* HomePage-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F909EC7BE951009D07EC2B65B053EF42 /* HomePage-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DA3B59E860A7F55A80977A1342A14E89 /* Target_Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 1585D974A61031B63F624320537EEF6F /* Target_Home.m */; };
-		E6B3786254FB73A46DA9BEA50564F36C /* Target_Mine.h in Headers */ = {isa = PBXBuildFile; fileRef = A65B39F5F31B27B32F04575C825CE2AE /* Target_Mine.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E9CB31CD4E7106EA8E8185869DA68752 /* MineViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = DAAC15276C0DC5A6F910AD4F71398AD1 /* MineViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D90078CF27633542002E793B /* BSControlRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D90078CD27633542002E793B /* BSControlRouter.h */; };
+		D90078D027633542002E793B /* BSControlRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = D90078CE27633542002E793B /* BSControlRouter.m */; };
+		D90078D32763356B002E793B /* BSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = D90078D12763356A002E793B /* BSCore.h */; };
+		D90078D42763356B002E793B /* BSCore.m in Sources */ = {isa = PBXBuildFile; fileRef = D90078D22763356B002E793B /* BSCore.m */; };
+		D90078D6276335E7002E793B /* BSComponentProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = D90078D5276335E7002E793B /* BSComponentProtocol.h */; };
+		D90078D8276336DC002E793B /* BSRouteHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = D90078D7276336DC002E793B /* BSRouteHeader.h */; };
+		E295704A8510965ED3C99776134BE28B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		E7095CAD8FDE40B5B272F8AA3F155798 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = CDABA1F0C358D500A1FA2EA3CE14AE8B /* ReplaceMe.m */; };
 		F6996CF4724A0DF0F124EC6A25222907 /* Pods-BSRouter_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 23A449FF512D6C7665EAB3B6C9D9F080 /* Pods-BSRouter_Example-dummy.m */; };
-		FEE75353CA3E9BB4AC3F1C09AD10FF90 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		FFC40A6C7165A7060FCFD864FC900232 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = BAD939D2572D891A2E9425E0C544C06E /* ReplaceMe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +47,20 @@
 			proxyType = 1;
 			remoteGlobalIDString = 99B2FA5CD852101E0899A7DE488F5B8C;
 			remoteInfo = MineVC;
+		};
+		235509F66C903C0749C3B60B282C16A2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA76D1E07768BB40D29D1B162A9AC64C;
+			remoteInfo = BSRouter;
+		};
+		560E8B29EA5DB66B082B2F2C3C902384 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA76D1E07768BB40D29D1B162A9AC64C;
+			remoteInfo = BSRouter;
 		};
 		7871AAFEC6FE1E70AC66B7D83A8FCA23 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -83,8 +103,8 @@
 		942C16E1623FCC866F9ED7266C2E1B4F /* BSRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BSRouter.h; path = BSRouter/Classes/BSRouter.h; sourceTree = "<group>"; };
 		95CA6A0EEAB8299F94485F6BE8716CCF /* HomePage.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HomePage.debug.xcconfig; sourceTree = "<group>"; };
 		984D6FCE00F8E8DDADBABCF7BE50ECA8 /* Pods-BSRouter_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BSRouter_Example-frameworks.sh"; sourceTree = "<group>"; };
-		9A8C70B27D1D39ED7CE72CF5D1913773 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9A8C70B27D1D39ED7CE72CF5D1913773 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A65B39F5F31B27B32F04575C825CE2AE /* Target_Mine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Target_Mine.h; path = MineVC/Classes/Target_Mine.h; sourceTree = "<group>"; };
 		ADEEED6957935406EDD1A15D9115E20F /* Pods-BSRouter_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BSRouter_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B7EAAB4F0F2385E971C7DA805B28277D /* MineVC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MineVC-dummy.m"; sourceTree = "<group>"; };
@@ -93,20 +113,26 @@
 		BE6816BD8B94FA881601299E47A2B634 /* HomePage.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HomePage.release.xcconfig; sourceTree = "<group>"; };
 		C06E93F0B15DEA22A959D31B58E2FFAD /* HomePage-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HomePage-dummy.m"; sourceTree = "<group>"; };
 		C1E24E16335B5642E4F443AB2C2D8423 /* Pods-BSRouter_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BSRouter_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C65B9C2F2531EE0A19612915C2DA83E7 /* BSRouter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = BSRouter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C65B9C2F2531EE0A19612915C2DA83E7 /* BSRouter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = BSRouter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C98C92A4B639F7E763C0BDB984AEE6BA /* MineVC */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MineVC; path = MineVC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC41EE1F01CCF115AA90BF5EC3E3AE73 /* MineVC-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MineVC-prefix.pch"; sourceTree = "<group>"; };
 		CDABA1F0C358D500A1FA2EA3CE14AE8B /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MineVC/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		CE4C0A7573FC861251B3ABF2BAD3DF92 /* MineVC-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MineVC-umbrella.h"; sourceTree = "<group>"; };
 		CF75AB04B5FE539F89AF503A56CC30DC /* MineViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MineViewController.m; path = MineVC/Classes/MineViewController.m; sourceTree = "<group>"; };
 		D7C309BDB7D1360D35ACD279ABF1FC6C /* MineVC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MineVC.modulemap; sourceTree = "<group>"; };
+		D90078CD27633542002E793B /* BSControlRouter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BSControlRouter.h; path = BSRouter/Classes/BSControlRouter.h; sourceTree = "<group>"; };
+		D90078CE27633542002E793B /* BSControlRouter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = BSControlRouter.m; path = BSRouter/Classes/BSControlRouter.m; sourceTree = "<group>"; };
+		D90078D12763356A002E793B /* BSCore.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BSCore.h; path = BSRouter/Classes/BSCore.h; sourceTree = "<group>"; };
+		D90078D22763356B002E793B /* BSCore.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = BSCore.m; path = BSRouter/Classes/BSCore.m; sourceTree = "<group>"; };
+		D90078D5276335E7002E793B /* BSComponentProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BSComponentProtocol.h; path = BSRouter/Classes/BSComponentProtocol.h; sourceTree = "<group>"; };
+		D90078D7276336DC002E793B /* BSRouteHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BSRouteHeader.h; path = BSRouter/Classes/BSRouteHeader.h; sourceTree = "<group>"; };
 		DAAC15276C0DC5A6F910AD4F71398AD1 /* MineViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MineViewController.h; path = MineVC/Classes/MineViewController.h; sourceTree = "<group>"; };
 		DFE9C7F4318E12FFC89DA08D2D48C231 /* BSRouter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BSRouter.release.xcconfig; sourceTree = "<group>"; };
 		E066F73F31ED2B3B96912B03EDDD523F /* HomePage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HomePage-prefix.pch"; sourceTree = "<group>"; };
 		E952EB64C2C4D26C39E84BD8EC806E74 /* Target_Home.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Target_Home.h; path = HomePage/Classes/Target_Home.h; sourceTree = "<group>"; };
 		EBD2354AB8FB608F981D002C02CEBAAB /* BSRouter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "BSRouter-Info.plist"; sourceTree = "<group>"; };
 		ED502ACD451C5E775EF5CC7B268B6666 /* BSRouter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = BSRouter.m; path = BSRouter/Classes/BSRouter.m; sourceTree = "<group>"; };
-		EF5D81AD9E23CE9D3926FEBD64A45438 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		EF5D81AD9E23CE9D3926FEBD64A45438 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EF8A32EDB6229879E422C6208A0A0135 /* BSRouter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BSRouter-umbrella.h"; sourceTree = "<group>"; };
 		F57F5544146F0E8E1BB5B77EAD5D4D56 /* BSRouter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BSRouter.modulemap; sourceTree = "<group>"; };
 		F909EC7BE951009D07EC2B65B053EF42 /* HomePage-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HomePage-umbrella.h"; sourceTree = "<group>"; };
@@ -114,27 +140,27 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		118874D77F8B9E55C08AA8097844346B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				FEE75353CA3E9BB4AC3F1C09AD10FF90 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		11D7A2238A3BB8F90B6E95D713361A48 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				754D550EE6AAEE73B8021F6E9213987A /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		30D82FB97D91CF739262E340EDEEC4F9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C7A6B9DC3079309543D9275B0A53DAE6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		342E8EA6BA91B102D09695266AE07BF2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B2DB4963A4E1CC21BA5533BC873AFF8A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C0BE754F9A786867FB60AEA48F23DE52 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E295704A8510965ED3C99776134BE28B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,15 +227,20 @@
 				1585D974A61031B63F624320537EEF6F /* Target_Home.m */,
 				A78E437D736D800A8FEE94C5E05A13C5 /* Support Files */,
 			);
-			name = HomePage;
 			path = HomePage;
 			sourceTree = "<group>";
 		};
 		7478CA488199642A2F40900956BACA2F /* BSRouter */ = {
 			isa = PBXGroup;
 			children = (
+				D90078D7276336DC002E793B /* BSRouteHeader.h */,
+				D90078D12763356A002E793B /* BSCore.h */,
+				D90078D22763356B002E793B /* BSCore.m */,
 				942C16E1623FCC866F9ED7266C2E1B4F /* BSRouter.h */,
 				ED502ACD451C5E775EF5CC7B268B6666 /* BSRouter.m */,
+				D90078CD27633542002E793B /* BSControlRouter.h */,
+				D90078CE27633542002E793B /* BSControlRouter.m */,
+				D90078D5276335E7002E793B /* BSComponentProtocol.h */,
 				BCE3CAF23398D8C885096CB5C9415324 /* ReplaceMe.m */,
 				4E7B977DA2332188A7219EC4B1EE63DB /* Pod */,
 				9DD1124DC6AE79498BF6C2CE2ADF1874 /* Support Files */,
@@ -258,7 +289,6 @@
 				0DA1F9C6F6948340732D57F85BC67F48 /* Target_Mine.m */,
 				047053D5A40CAB4724ACFAF4ACD80E0D /* Support Files */,
 			);
-			name = MineVC;
 			path = MineVC;
 			sourceTree = "<group>";
 		};
@@ -337,23 +367,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7413D12BCA023F27CF7B07451C241F44 /* Headers */ = {
+		B9E5BC94ABBC848610E4973680635958 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFFC4FD36D9B4600DA5B2BFD67490611 /* MineVC-umbrella.h in Headers */,
-				E9CB31CD4E7106EA8E8185869DA68752 /* MineViewController.h in Headers */,
-				E6B3786254FB73A46DA9BEA50564F36C /* Target_Mine.h in Headers */,
+				ADE2DF1A3ED4C6A42B68ACE48F0D78DF /* MineVC-umbrella.h in Headers */,
+				2656AC96482B859874C90358DC6E8058 /* MineViewController.h in Headers */,
+				B8528E2074D2A3B4744C5597F26875AE /* Target_Mine.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		92679CBF88DD35E1209BDC8F965CDCCF /* Headers */ = {
+		C7F6129952E6C2EFCCF69A178DB987B8 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D5CAFA24A56AE0FAAC230BC85F898B42 /* HomePage-umbrella.h in Headers */,
-				5DC62BA69244E98857BC34D6F47E3A5B /* HomePageViewController.h in Headers */,
-				754291C2ED2206F9C932E21286534BB1 /* Target_Home.h in Headers */,
+				8D01A79050C80326FA20C68044AE3354 /* HomePage-umbrella.h in Headers */,
+				AC109CFABF61F79EF2378A2D54A3BCB0 /* HomePageViewController.h in Headers */,
+				28A8806BF49DDD3C1369D51B0C5BD6E8 /* Target_Home.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,8 +391,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D90078D32763356B002E793B /* BSCore.h in Headers */,
 				6094D05961F13A16FC29D741BC08A0C7 /* BSRouter.h in Headers */,
+				D90078D8276336DC002E793B /* BSRouteHeader.h in Headers */,
 				8E02B8BA745938B6300450D9C03B8C9C /* BSRouter-umbrella.h in Headers */,
+				D90078D6276335E7002E793B /* BSComponentProtocol.h in Headers */,
+				D90078CF27633542002E793B /* BSControlRouter.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,16 +405,17 @@
 /* Begin PBXNativeTarget section */
 		99B2FA5CD852101E0899A7DE488F5B8C /* MineVC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D293C82C8F244AE1F5CEBBBAB5B8ED12 /* Build configuration list for PBXNativeTarget "MineVC" */;
+			buildConfigurationList = 3EE0B3285ABDAACEFE0E88DA95A4CC83 /* Build configuration list for PBXNativeTarget "MineVC" */;
 			buildPhases = (
-				7413D12BCA023F27CF7B07451C241F44 /* Headers */,
-				8689F7DF1DB2B45443E668519974D5B7 /* Sources */,
-				118874D77F8B9E55C08AA8097844346B /* Frameworks */,
-				B25CA90CED77E47A6FE9040ECA0C8DEC /* Resources */,
+				B9E5BC94ABBC848610E4973680635958 /* Headers */,
+				FD2522BB203B3C57A2C19E0F475B8C04 /* Sources */,
+				C0BE754F9A786867FB60AEA48F23DE52 /* Frameworks */,
+				D8B8A362FF6B6EEBA22B15514AE7AC2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				9F5D98B774A326377BAC326946742967 /* PBXTargetDependency */,
 			);
 			name = MineVC;
 			productName = MineVC;
@@ -389,16 +424,17 @@
 		};
 		AFCA61B85511CB6CA475E147FDDE1BC7 /* HomePage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1F741DA9EBB0A1A0BB0B1A14A4B18FB4 /* Build configuration list for PBXNativeTarget "HomePage" */;
+			buildConfigurationList = FAE20DA492924ABAD0D6A5CFBF5CB908 /* Build configuration list for PBXNativeTarget "HomePage" */;
 			buildPhases = (
-				92679CBF88DD35E1209BDC8F965CDCCF /* Headers */,
-				63E0E417BA8856871E020D973E4311AB /* Sources */,
-				11D7A2238A3BB8F90B6E95D713361A48 /* Frameworks */,
-				A77881947DBF87C5E2C18D3291F69017 /* Resources */,
+				C7F6129952E6C2EFCCF69A178DB987B8 /* Headers */,
+				9E426E607B4EE464B7DCDC4F4DE907D3 /* Sources */,
+				342E8EA6BA91B102D09695266AE07BF2 /* Frameworks */,
+				8F00C0204BFBC138C44038BE9E435518 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				9C05F44B545AF0C6835B2FBA3E68A6DA /* PBXTargetDependency */,
 			);
 			name = HomePage;
 			productName = HomePage;
@@ -482,7 +518,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A77881947DBF87C5E2C18D3291F69017 /* Resources */ = {
+		8F00C0204BFBC138C44038BE9E435518 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -496,7 +532,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B25CA90CED77E47A6FE9040ECA0C8DEC /* Resources */ = {
+		D8B8A362FF6B6EEBA22B15514AE7AC2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -514,25 +550,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		63E0E417BA8856871E020D973E4311AB /* Sources */ = {
+		9E426E607B4EE464B7DCDC4F4DE907D3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C9113BD1F6CB1AE8E0931B0AA03BAC1D /* HomePage-dummy.m in Sources */,
-				D49B14A2BDD04E88731670234A7AC9F8 /* HomePageViewController.m in Sources */,
-				03875B2A0A154BCF5ADB5C0E8D397B7C /* ReplaceMe.m in Sources */,
-				DA3B59E860A7F55A80977A1342A14E89 /* Target_Home.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8689F7DF1DB2B45443E668519974D5B7 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A4AB8B40AD77DAD756073BCF728FF48B /* MineVC-dummy.m in Sources */,
-				687EF6FF77E600F93CDEE41BD13C03AC /* MineViewController.m in Sources */,
-				A94FBD962FCD3597068D2485218C5D56 /* ReplaceMe.m in Sources */,
-				5A450165E4CFDCDEA1F3870F18BC9316 /* Target_Mine.m in Sources */,
+				2CE97A826AC51FB4F08182A17DBE8C1A /* HomePage-dummy.m in Sources */,
+				6660DD4873F3ACAE938ED5B25DFC3428 /* HomePageViewController.m in Sources */,
+				FFC40A6C7165A7060FCFD864FC900232 /* ReplaceMe.m in Sources */,
+				24CD0B4FAAFE992CC2DC1845D2547C30 /* Target_Home.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -543,6 +568,19 @@
 				869CF4EFB78BEA6F8BFCE9A20DBC52DE /* BSRouter.m in Sources */,
 				7F7478FF6A06552BF871525596CA414C /* BSRouter-dummy.m in Sources */,
 				478255264B28886A86E24C6DE7DB1B98 /* ReplaceMe.m in Sources */,
+				D90078D42763356B002E793B /* BSCore.m in Sources */,
+				D90078D027633542002E793B /* BSControlRouter.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2522BB203B3C57A2C19E0F475B8C04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0AC6D75D209F4697F3BE3D9BB330DE8C /* MineVC-dummy.m in Sources */,
+				38001A2B9F94E1331683BBF4E36318C3 /* MineViewController.m in Sources */,
+				E7095CAD8FDE40B5B272F8AA3F155798 /* ReplaceMe.m in Sources */,
+				9AEF68936BEE8124BE906BFD4C777F38 /* Target_Mine.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -560,6 +598,18 @@
 			name = HomePage;
 			target = AFCA61B85511CB6CA475E147FDDE1BC7 /* HomePage */;
 			targetProxy = C06CA7328426AE94210ACA224BEA6F2C /* PBXContainerItemProxy */;
+		};
+		9C05F44B545AF0C6835B2FBA3E68A6DA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = BSRouter;
+			target = FA76D1E07768BB40D29D1B162A9AC64C /* BSRouter */;
+			targetProxy = 235509F66C903C0749C3B60B282C16A2 /* PBXContainerItemProxy */;
+		};
+		9F5D98B774A326377BAC326946742967 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = BSRouter;
+			target = FA76D1E07768BB40D29D1B162A9AC64C /* BSRouter */;
+			targetProxy = 560E8B29EA5DB66B082B2F2C3C902384 /* PBXContainerItemProxy */;
 		};
 		C3FCA714A47AE40A41AB4FE3AE336D70 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -666,7 +716,7 @@
 			};
 			name = Debug;
 		};
-		4BEBCEDEA20437BF6E39084EFCDEBE5A /* Debug */ = {
+		5218C32694BB18F96547757C6A5BC057 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 56C4E4C256E922D7893C4AFEC0CC23E7 /* MineVC.debug.xcconfig */;
 			buildSettings = {
@@ -696,38 +746,7 @@
 			};
 			name = Debug;
 		};
-		4D8C516B267C5D4C8EEACE31A71A4BA8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 38F820AC9B8234C22299B8655B74749A /* MineVC.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MineVC/MineVC-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MineVC/MineVC-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MineVC/MineVC.modulemap";
-				PRODUCT_MODULE_NAME = MineVC;
-				PRODUCT_NAME = MineVC;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		83240375B19E0967A92BDADFDEC7655D /* Release */ = {
+		56C11D26672C077ECC614256C69C7953 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BE6816BD8B94FA881601299E47A2B634 /* HomePage.release.xcconfig */;
 			buildSettings = {
@@ -757,36 +776,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		917B845FCAF588E1130A23F9E9DB4605 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 95CA6A0EEAB8299F94485F6BE8716CCF /* HomePage.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/HomePage/HomePage-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HomePage/HomePage-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/HomePage/HomePage.modulemap";
-				PRODUCT_MODULE_NAME = HomePage;
-				PRODUCT_NAME = HomePage;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		AE583D132CA3FEAF5D88D21870401E93 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -818,6 +807,36 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		C234340BD43CDEC2218FF53FD21BD8E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95CA6A0EEAB8299F94485F6BE8716CCF /* HomePage.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/HomePage/HomePage-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/HomePage/HomePage-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/HomePage/HomePage.modulemap";
+				PRODUCT_MODULE_NAME = HomePage;
+				PRODUCT_NAME = HomePage;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -874,8 +893,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -913,6 +931,37 @@
 			};
 			name = Debug;
 		};
+		E410F2A3EC520A34833B65F03297F1CE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 38F820AC9B8234C22299B8655B74749A /* MineVC.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MineVC/MineVC-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MineVC/MineVC-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MineVC/MineVC.modulemap";
+				PRODUCT_MODULE_NAME = MineVC;
+				PRODUCT_NAME = MineVC;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		FB459656437E21F095E8D1F2F903752A /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C1E24E16335B5642E4F443AB2C2D8423 /* Pods-BSRouter_Example.release.xcconfig */;
@@ -949,11 +998,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1F741DA9EBB0A1A0BB0B1A14A4B18FB4 /* Build configuration list for PBXNativeTarget "HomePage" */ = {
+		3EE0B3285ABDAACEFE0E88DA95A4CC83 /* Build configuration list for PBXNativeTarget "MineVC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				917B845FCAF588E1130A23F9E9DB4605 /* Debug */,
-				83240375B19E0967A92BDADFDEC7655D /* Release */,
+				5218C32694BB18F96547757C6A5BC057 /* Debug */,
+				E410F2A3EC520A34833B65F03297F1CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -963,15 +1012,6 @@
 			buildConfigurations = (
 				25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */,
 				CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D293C82C8F244AE1F5CEBBBAB5B8ED12 /* Build configuration list for PBXNativeTarget "MineVC" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4BEBCEDEA20437BF6E39084EFCDEBE5A /* Debug */,
-				4D8C516B267C5D4C8EEACE31A71A4BA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -990,6 +1030,15 @@
 			buildConfigurations = (
 				329F7F9C9318C2AD7C537D964109A83E /* Debug */,
 				AE583D132CA3FEAF5D88D21870401E93 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAE20DA492924ABAD0D6A5CFBF5CB908 /* Build configuration list for PBXNativeTarget "HomePage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C234340BD43CDEC2218FF53FD21BD8E6 /* Debug */,
+				56C11D26672C077ECC614256C69C7953 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

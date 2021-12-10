@@ -6,6 +6,8 @@
 //
 
 #import "HomePageViewController.h"
+#import <BSRouter/BSRouter.h>
+
 @interface HomePageViewController ()
 
 @end
@@ -20,7 +22,19 @@
     label.text = @"首页";
     label.textAlignment = NSTextAlignmentCenter;
     [self.view addSubview:label];
-    // Do any additional setup after loading the view.
+    UIButton * button = [[UIButton alloc]initWithFrame:CGRectMake(100, 200, 175, 50)];
+    button.backgroundColor = UIColor.lightGrayColor;
+    [button setTitle:@"我的页面" forState:UIControlStateNormal];
+    [button addTarget:self action:@selector(f1) forControlEvents:UIControlEventTouchUpInside];
+    [self.view addSubview:button];
+    // Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)f1{
+    UIViewController *viewController = [BSR() performActionWithUrl:[NSURL URLWithString:@"bs://Mine/showMineWithParams?id=1234"] completion:nil];
+
+    [UIApplication sharedApplication].keyWindow.rootViewController = viewController;
+
 }
 
 /*
